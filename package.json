@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^5.5.4"
+  },
+  "scripts": {
+    "app": "node src/app.js"
+  }
+}
